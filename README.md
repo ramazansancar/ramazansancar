@@ -82,11 +82,11 @@
   <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
   <br>
   <div width="100%" align="center">
-    <a href="https://github.com/ramazansancar/Guvenli-Alisveris" title="Güvenli Alışveriş"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ramazansancar&repo=Guvenli-Alisveris&theme=react&border_color=61dafb&border_radius=10"></a>
-    <a href="https://github.com/ramazansancar/Recipe-Card" title="Radyo"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ramazansancar&repo=Recipe-Card&theme=react&border_color=61dafb&border_radius=10"></a>
-    <a href="https://github.com/ramazansancar/react-weather-app" title="Radyo"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ramazansancar&repo=react-weather-app&theme=react&border_color=61dafb&border_radius=10"></a>
-    <a href="https://github.com/ramazansancar/radyo" title="Radyo"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ramazansancar&repo=radyo&theme=react&border_color=61dafb&border_radius=10"></a>
-    <a href="https://github.com/ramazansancar/CS50x-Fellow-Basvuru-Islemleri" title="CS50x Fellow Başvuru İşlemleri"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ramazansancar&repo=CS50x-Fellow-Basvuru-Islemleri&theme=react&border_color=61dafb&border_radius=10"></a>
+    <a href="https://github.com/ramazansancar/Guvenli-Alisveris" title="Güvenli Alışveriş"><img height="115" src="https://github-readme-stats-tau-rose-18.vercel.app/api/pin/?username=ramazansancar&repo=Guvenli-Alisveris&theme=react&border_color=61dafb&border_radius=10"></a>
+    <a href="https://github.com/ramazansancar/Recipe-Card" title="Radyo"><img height="115" src="https://github-readme-stats-tau-rose-18.vercel.app/api/pin/?username=ramazansancar&repo=Recipe-Card&theme=react&border_color=61dafb&border_radius=10"></a>
+    <a href="https://github.com/ramazansancar/react-weather-app" title="Radyo"><img height="115" src="https://github-readme-stats-tau-rose-18.vercel.app/api/pin/?username=ramazansancar&repo=react-weather-app&theme=react&border_color=61dafb&border_radius=10"></a>
+    <a href="https://github.com/ramazansancar/radyo" title="Radyo"><img height="115" src="https://github-readme-stats-tau-rose-18.vercel.app/api/pin/?username=ramazansancar&repo=radyo&theme=react&border_color=61dafb&border_radius=10"></a>
+    <a href="https://github.com/ramazansancar/CS50x-Fellow-Basvuru-Islemleri" title="CS50x Fellow Başvuru İşlemleri"><img height="115" src="https://github-readme-stats-tau-rose-18.vercel.app/api/pin/?username=ramazansancar&repo=CS50x-Fellow-Basvuru-Islemleri&theme=react&border_color=61dafb&border_radius=10"></a>
   </div>
   <br>
   <h4 align="center">
