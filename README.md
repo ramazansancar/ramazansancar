@@ -18,13 +18,13 @@
     Hi, I'm Ramazan Sancar, Machine Technicer & Software Developer from Turkey
     <br>
     <br>
-    🔬 I'm currently studying in Kırklareli University Machine Technicer
+    🔬 I'm currently studying in Istanbul University Computer Programming
     <br>
-    🎓 I graduated from Manisa Mehmet Akif Ersoy High School
+    🎓 I graduated from Kırklareli University Machine Technicer
     <br>
     💻 I love writing code and learn anythings about it
     <br>
-    📚 I’m currently learning how to build Education Website with Nodejs and Metorjs
+    📚 I’m currently Automation Systems Website with Node.js, React.js and Vue.js
     <br>
     💬 Ask me anything about from <a href="https://github.com/ramazansancar/ramazansancar/issues" title="Issues">Here</a>
     <br>
@@ -82,9 +82,13 @@
   <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
   <br>
   <div width="100%" align="center">
-    <a align="left" href="https://github.com/ramazansancar/CS50x-Fellow-Basvuru-Islemleri" title="CS50x Fellow Başvuru İşlemleri"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ramazansancar&repo=CS50x-Fellow-Basvuru-Islemleri&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/ramazansancar/radyo" title="Radyo"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ramazansancar&repo=radyo&theme=react&border_color=61dafb&border_radius=10"></a>
+    <a href="https://github.com/ramazansancar/Guvenli-Alisveris" title="Güvenli Alışveriş"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ramazansancar&repo=Guvenli-Alisveris&theme=react&border_color=61dafb&border_radius=10"></a>
+    <a href="https://github.com/ramazansancar/Recipe-Card" title="Radyo"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ramazansancar&repo=Recipe-Card&theme=react&border_color=61dafb&border_radius=10"></a>
+    <a href="https://github.com/ramazansancar/react-weather-app" title="Radyo"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ramazansancar&repo=react-weather-app&theme=react&border_color=61dafb&border_radius=10"></a>
+    <a href="https://github.com/ramazansancar/radyo" title="Radyo"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ramazansancar&repo=radyo&theme=react&border_color=61dafb&border_radius=10"></a>
+    <a href="https://github.com/ramazansancar/CS50x-Fellow-Basvuru-Islemleri" title="CS50x Fellow Başvuru İşlemleri"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ramazansancar&repo=CS50x-Fellow-Basvuru-Islemleri&theme=react&border_color=61dafb&border_radius=10"></a>
   </div>
-  <br><br><br><br><br><br>
+  <br>
   <h4 align="center">
     <a href="https://github.com/ramazansancar?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
   </h4>
