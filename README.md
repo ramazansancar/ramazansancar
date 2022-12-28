@@ -69,7 +69,7 @@
         <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source"><img align="left" width="30%" src="https://github-readme-streak-stats.herokuapp.com/?user=ramazansancar&theme=react&border=61dafb&hide_border=true" alt="ramazansancar" /></a>
       </p>
     </br>
-    <img src="https://activity-graph.herokuapp.com/graph?username=ramazansancar&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ramazansancar&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
     </br>
     <img src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/output/github-contribution-grid-snake.svg" alt="GitHub Snake" width="100%"/>
   </div>
