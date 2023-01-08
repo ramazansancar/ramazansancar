@@ -25,15 +25,18 @@ jobs:
     # Checks repo under $GITHUB_WORKSHOP, so your job can access it
       - uses: actions/checkout@v2
 
-    # Generates the snake  
-      - uses: Platane/snk@master
-        id: snake-gif
+    
+    # Generates the snake
+      - name: generate github-contribution-grid-snake.svg
+        id: snake-svg
+        uses: Platane/snk/svg-only@v2
         with:
           github_user_name: ${{ github.repository_owner }}
           # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
-          
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
      # show the status of the build. Makes it easier for debugging (if there's any issues).
       - run: git status
 
