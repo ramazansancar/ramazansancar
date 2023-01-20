@@ -20,7 +20,7 @@
     <br>
     🔬 I'm currently studying in Istanbul University Computer Programming
     <br>
-    🎓 I graduated from Kırklareli University Machine Technicer
+    🎓 I graduated from Kırklareli University Machine Technician
     <br>
     💻 I love writing code and learn anythings about it
     <br>
