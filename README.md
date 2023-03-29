@@ -7,8 +7,7 @@
   </h1>
 
   <h5 align="center">
-    <code>
-      <a href="https://www.linkedin.com/in/ramazansancar/" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/linkedin.svg"> LinkedIn</a></code>
+    <code><a href="https://www.linkedin.com/in/ramazansancar/" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/linkedin.svg"> LinkedIn</a></code>
     <code><a href="https://www.hackerrank.com/ramazansancar" title="HackerRank Profile"><img width="22" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/hackerrank.png"> HackerRank</a></code>
     <code><a href="https://stackoverflow.com/users/15030183/ramazan-sancar" title="Stack Overflow Profile"><img width="22" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/stackoverflow.svg"> Stack Overflow</a></code>
   </h5>
@@ -54,7 +53,6 @@
     <code><img title="Flask" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/flask.png"></code>
   </p>
   <hr>
-
   <h2 align="center">⚡ Stats ⚡</h2>
   <br>
   <div style="margin-bottom:10px;margin:top:10px;height:170px">
@@ -80,15 +78,15 @@
   <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
   <br>
   <div width="100%" align="center">
-    <a href="https://github.com/ramazansancar/Guvenli-Alisveris" title="Güvenli Alışveriş"><img height="115" src="https://github-readme-stats-tau-rose-18.vercel.app/api/pin/?username=ramazansancar&repo=Guvenli-Alisveris&theme=react&border_color=61dafb&border_radius=10"></a>
+    <!--<a href="https://github.com/ramazansancar/Guvenli-Alisveris" title="Güvenli Alışveriş"><img height="115" src="https://github-readme-stats-tau-rose-18.vercel.app/api/pin/?username=ramazansancar&repo=Guvenli-Alisveris&theme=react&border_color=61dafb&border_radius=10"></a>
     <a href="https://github.com/ramazansancar/Recipe-Card" title="Radyo"><img height="115" src="https://github-readme-stats-tau-rose-18.vercel.app/api/pin/?username=ramazansancar&repo=Recipe-Card&theme=react&border_color=61dafb&border_radius=10"></a>
     <a href="https://github.com/ramazansancar/react-weather-app" title="Radyo"><img height="115" src="https://github-readme-stats-tau-rose-18.vercel.app/api/pin/?username=ramazansancar&repo=react-weather-app&theme=react&border_color=61dafb&border_radius=10"></a>
     <a href="https://github.com/ramazansancar/radyo" title="Radyo"><img height="115" src="https://github-readme-stats-tau-rose-18.vercel.app/api/pin/?username=ramazansancar&repo=radyo&theme=react&border_color=61dafb&border_radius=10"></a>
-    <a href="https://github.com/ramazansancar/CS50x-Fellow-Basvuru-Islemleri" title="CS50x Fellow Başvuru İşlemleri"><img height="115" src="https://github-readme-stats-tau-rose-18.vercel.app/api/pin/?username=ramazansancar&repo=CS50x-Fellow-Basvuru-Islemleri&theme=react&border_color=61dafb&border_radius=10"></a>
+    <a href="https://github.com/ramazansancar/CS50x-Fellow-Basvuru-Islemleri" title="CS50x Fellow Başvuru İşlemleri"><img height="115" src="https://github-readme-stats-tau-rose-18.vercel.app/api/pin/?username=ramazansancar&repo=CS50x-Fellow-Basvuru-Islemleri&theme=react&border_color=61dafb&border_radius=10"></a>-->
   </div>
   <br>
   <h4 align="center">
-    <a href="https://github.com/ramazansancar?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+    <a href="https://github.com/ramazansancar?tab=repositories" title="Show Repositories">🔎 Look Here 🔍</a>
   </h4>
   
 
