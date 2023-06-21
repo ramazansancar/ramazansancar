@@ -33,24 +33,189 @@
   <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
   <br>
   <p align="center">
-    <code><img title="C" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/c.svg"></code>
-    <code><img title="Python" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/python-original.svg"></code>
-    <code><img title="Javascript" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/javascript.svg"></code>
-    <code><img title="Problem Solving" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/problemSolving.png"></code>
-    <code><img title="HTML5" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/html5.svg"></code>
-    <code><img title="CSS" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/css.svg"></code>
-    <code><img title="React" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/react-original.svg"></code>
-    <code><img title="Git" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/git-original.svg"></code>
-    <code><img title="Visual Studio Code" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/vscode.png"></code>
-    <code><img title="Microsoft Visual Studio" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/visualstudio.png"></code>
-    <code><img title="JQuery" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/jquery-original.svg"></code>
-    <code><img title="Java" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/java-original.svg"></code>
-    <code><img title="JSON" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/json.svg"></code>
-    <code><img title="GitHub" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/github.svg"></code>
-    <code><img title="MySQL" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/mysql.svg"></code>
-    <code><img title="npm" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/npm.svg"></code>
-    <code><img title="PHP" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/php.svg"></code>
-    <code><img title="Flask" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/flask.png"></code>
+    <a href="https://www.php.net/" target="_blank">
+      <img
+        src="https://github.com/devicons/devicon/raw/master/icons/php/php-original.svg"
+        alt="php"
+        width="40"
+        height="40"
+      />
+    </a>
+    <a href="https://www.python.org" target="_blank">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+        alt="python"
+        width="40"
+        height="40"
+      />
+    </a>
+    <a href="https://golang.org" target="_blank">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"
+        alt="go"
+        width="40"
+        height="40"
+      />
+    </a>
+    <a
+      href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+      target="_blank"
+    >
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+        alt="javascript"
+        width="40"
+        height="40"
+      />
+    </a>
+    <a href="https://www.typescriptlang.org/" target="_blank">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+        alt="typescript"
+        width="40"
+        height="40"
+      />
+    </a>
+    <a href="https://expressjs.com/" target="_blank">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"
+        alt="espressjs"
+        width="40"
+        height="40"
+      />
+    </a>
+    <a href="https://www.electronjs.org/" target="_blank">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg"
+        alt="electronjs"
+        width="40"
+        height="40"
+      />
+    </a>
+    <a href="https://vuejs.org/" target="_blank">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
+        alt="vuejs"
+        width="40"
+        height="40"
+      />
+    </a>
+    <a href="https://nuxtjs.org/" target="_blank">
+      <img
+        src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg"
+        alt="nuxtjs"
+        width="40"
+        height="40"
+      />
+    </a>
+    <a href="https://vuetifyjs.com/en/" target="_blank">
+      <img
+        src="https://bestofjs.org/logos/vuetify.svg"
+        alt="vuetify"
+        width="40"
+        height="40"
+      />
+    </a>
+    <a href="https://www.postgresql.org" target="_blank">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
+        alt="postgresql"
+        width="40"
+        height="40"
+      />
+    </a>
+    <a href="https://www.mongodb.com/" target="_blank">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+        alt="mongodb"
+        width="40"
+        height="40"
+      />
+    </a>
+    <a href="https://www.w3schools.com/c/" target="_blank">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
+        alt="C"
+        width="40"
+        height="40"
+      />
+    </a>
+    <a href="https://www.npmjs.com/" target="_blank">
+      <img
+        src="https://github.com/devicons/devicon/raw/master/icons/npm/npm-original-wordmark.svg"
+        alt="npm"
+        width="40"
+        height="40"
+      />
+    </a>
+    <a href="https://www.mysql.com/" target="_blank">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+        alt="mysql"
+        width="40"
+        height="40"
+      />
+    </a>
+    <a href="https://www.w3schools.com/html/" target="_blank">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+        alt="html5"
+        width="40"
+        height="40"
+      />
+    </a>
+    <a href="https://www.w3schools.com/css/" target="_blank">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+        alt="css3"
+        width="40"
+        height="40"
+      />
+    </a>
+    <a href="https://react.dev/" target="_blank">
+      <img
+        src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"
+        alt="react"
+        width="40"
+        height="40"
+      />
+    </a>
+    <a href="https://git-scm.com/" target="_blank">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg"
+        alt="git"
+        width="40"
+        height="40"
+      />
+    </a>
+    <a href="https://code.visualstudio.com/" target="_blank">
+      <img
+        src="https://github.com/devicons/devicon/raw/master/icons/vscode/vscode-original-wordmark.svg"
+        alt="vscode"
+        width="40"
+        height="40"
+      />
+    </a>
+    <img
+      src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/problemSolving.png"
+      alt="problem Solving"
+      width="40"
+      height="40"
+    />
+    <a href="https://jquery.com/" target="_blank">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg"
+        alt="jquery"
+        width="40"
+        height="40"
+      />
+    </a>
+    <img
+      src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/json.svg"
+      alt="json"
+      width="40"
+      height="40"
+    />
   </p>
   <hr>
   <h2 align="center">⚡ Stats ⚡</h2>
