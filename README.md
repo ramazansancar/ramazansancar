@@ -16,6 +16,8 @@
     Hi, I'm Ramazan Sancar, Machine Technicer & Software Developer from Turkey
     <br>
     <br>
+    💻 I’m currently working on Assistant Software Test Specialist at <a href="https://roofstacks.com/" target="_blank" title="RoofStacks">RoofStacks</a>
+    <br>
     🔬 I'm currently studying in Istanbul University Computer Programming
     <br>
     🎓 I graduated from Kırklareli University Machine Technician
