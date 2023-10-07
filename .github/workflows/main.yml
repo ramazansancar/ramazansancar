@@ -29,7 +29,7 @@ jobs:
     # Generates the snake
       - name: generate github-contribution-grid-snake.svg
         id: snake-svg
-        uses: Platane/snk/svg-only@v2  #Old: aelassas/snk/svg-only@main
+        uses: Platane/snk/svg-only@v3  #Old: aelassas/snk/svg-only@main
         with:
           github_user_name: ${{ github.repository_owner }}
           # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
