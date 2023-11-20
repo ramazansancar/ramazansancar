@@ -23,8 +23,7 @@ jobs:
     steps:
 
     # Checks repo under $GITHUB_WORKSHOP, so your job can access it
-      - uses: actions/checkout@v2
-
+      - uses: actions/checkout@v4
     
     # Generates the snake
       - name: generate github-contribution-grid-snake.svg
@@ -49,7 +48,8 @@ jobs:
           branch: main
           force: true
 
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+      - name
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           # the output branch we mentioned above
           target_branch: output
