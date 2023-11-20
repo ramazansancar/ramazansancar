@@ -48,7 +48,7 @@ jobs:
           branch: main
           force: true
 
-      - name
+      - name: Deploy to Readme Page
         uses: crazy-max/ghaction-github-pages@v4
         with:
           # the output branch we mentioned above
